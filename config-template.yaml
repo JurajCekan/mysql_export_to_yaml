@@ -4,3 +4,7 @@ mysql:
   user: your_username
   password: your_password
   database: your_database
+
+exclude_tables:
+  - table_to_exclude1
+  - table_to_exclude2
