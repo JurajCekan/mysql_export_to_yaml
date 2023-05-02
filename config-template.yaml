@@ -1,0 +1,6 @@
+# Create a copy of this template file and name it config.yaml .
+mysql:
+  host: localhost
+  user: your_username
+  password: your_password
+  database: your_database
