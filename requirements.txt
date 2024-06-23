@@ -1,2 +1,2 @@
-PyMySQL==1.0.3
+PyMySQL>=1.1.1
 PyYAML==6.0
